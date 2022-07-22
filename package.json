@@ -48,7 +48,7 @@
     "react-native-animatable": "https://github.com/UnPourTous/react-native-animatable.git#v1.2.5",
     "react-navigation-redux-helpers": "1.0.1",
     "react-redux": "5.0.6",
-    "redux": "3.6.0",
+    "redux": "^4.2.0",
     "redux-actions": "2.2.1",
     "redux-logger": "3.0.6",
     "redux-thunk": "2.3.0",
